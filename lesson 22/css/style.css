@@ -1,0 +1,7 @@
+.paragraph {
+    padding: 25px 25px 0 25px;
+    height: 100px;
+    overflow: scroll;
+    max-width: 50%;
+    max-height: 50%;
+}
